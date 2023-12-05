@@ -1,1 +1,1 @@
-# Projects
+# EGATOR-Course-Project
