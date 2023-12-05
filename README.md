@@ -6,6 +6,6 @@ It is a website that brings together people who want to plan a career for the fu
 
 Website is coded with HTML CSS and JAVASCRIPT
 
-<h2>Screenshot </h2>
+<h2>Screen </h2>
 
 ![](Screen.gif)
